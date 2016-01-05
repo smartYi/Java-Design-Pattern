@@ -4,3 +4,4 @@
 * [创建型模式]
 * [结构型模式]
 * [行为型模式](https://github.com/smartYi/Java-Design-Pattern/tree/master/Behavioral%20Pattern)
+共同进步，谢谢！
